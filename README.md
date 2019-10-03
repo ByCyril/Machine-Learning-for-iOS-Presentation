@@ -7,5 +7,13 @@ This is what the simplicity of the framework looks like
 
 Turi Create is a high level deep learning library that allow developers to create their own pre-trained classifiers; a machine learning model that acts as a cheat sheet for computers to make prediction. Core ML is not a machine learning library but a library that allow developers to apply their pre-trained classifiers into their apps. Core ML works with other high level libraries like Vision for image and object detection, natural language for language processing, and GameplayKit for decision trees. Both libraries are easy to use and the audience will take away knowing how to create their own pre-trained classifiers to create an image recognition app and a sentiment analysis app.
 
+## Resources
+
+[Core ML Documentation](https://developer.apple.com/documentation/coreml)
+
+[Turi Create Documentation](https://github.com/apple/turicreate)
+
+[Ready made Core ML Models](https://developer.apple.com/machine-learning/models/)
+
 ### By Cyril
 
